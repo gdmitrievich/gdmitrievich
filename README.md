@@ -1,10 +1,10 @@
 <div align="center">
 	<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGI4ZDlsNHNudnVwOWg0eWNrNjlrNnk4N2YyMnM0MWhhdDhsOGcyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" height="125"> -->
-	<!-- <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" height="100"> -->
-	<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" height="125">
+	<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" height="100">
+	<!-- <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" height="125"> -->
 	<!-- <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" height="150"> -->
 	<!-- <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" height="150"> -->
-<div>
+</div>
 
 <h1 align="center">Hi there, I'm Gleb 👋</a>
 <h3 align="center">A novice backend Java developer who loves coding 💻</h3>
