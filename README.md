@@ -65,7 +65,7 @@ what i learned also was practised.
 | --- | --- | --- | --- | --- |
 | 1 | [locus](https://github.com/gdmitrievich/locus) | html, css | bmp, tags, structure | sass, html, css |
 
-<h3>GameDev (C# + Unity)</h3>
+<h4>GameDev (C# + Unity)</h4>
 
 | № | Project | Tech Stack | Learned | Practised |
 | --- | --- | --- | --- | --- |
