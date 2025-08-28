@@ -1,3 +1,5 @@
+<!-- TODO: add emodji -->
+
 <div align="center">
 	<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGI4ZDlsNHNudnVwOWg0eWNrNjlrNnk4N2YyMnM0MWhhdDhsOGcyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" height="125"> -->
 	<!-- <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" height="100"> -->
@@ -8,6 +10,14 @@
 
 <h1 align="center">Hi there, I'm Gleb 👋</a>
 <h3 align="center">A novice backend Java developer who loves coding 💻</h3>
+
+<h2>About Me</h2>
+
+<!-- BUT! ONLY WHAT NEEDED FOR EMPLOYER. -->
+I love:
+- Read self-development books;
+- Talk with the powerful people;
+- Calisthenics & running.
 
 <h2>Tech stack</h2>
 
@@ -21,22 +31,64 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="linux cli" alt="linux cli" width="50" height="50" />
 </p>
 
-<h2>Projects</h2>
+<h2>Development Journey</h2>
 
-1. [math-function-drawer](https://github.com/gdmitrievich/math-function-drawer) - C++, OOP, containers, Unit-testing, CMake, git (GitFlow);
-2. ...
-3. ...
-4. ...
-5. ...
-6. ...
-7. ...
-8. ...
-9. ...
-10. ...
-11. ...
-12. ...
-13. ...
-14. ...
+<!-- Goals:
+- To show how i impove myself by the time;
+	- Show pet projects;
+	- Show key technologies;
+	- Show directions;
+	- продемонстрировать стремление учиться новому, умение решать проблемы разного масштаба и способность адаптироваться к новым технологиям.
+	-->
+
+<!-- It's important to name projects clearly. It's not important to write project goal & purpose here. -->
+
+<!-- Show the development Journey, specifying the direction (frontend development, GameDev (unity), c++ development, School 21 projects, and now...) and its completed projects (with the link to the repos) and key technologies, key consecpts learned & practised. -->
+
+<!-- TODO: Let's check each word and think what is needed for employer and what is not -->
+
+<!-- Example: [math-function-drawer](https://github.com/gdmitrievich/math-function-drawer) ; -->
+
+<!-- I write the projects and then their description -->
+
+🎓 - means university project. \
+🔥 - the best projects.
+> Order of these projects: 1 - the first project.
+> Параллельно с выбранным направлением я писал проекты, котоыре задавали в университете.
+> The best ones.
+
+Frontend (HTML + CSS):
+
+1. [locus](https://github.com/gdmitrievich/locus)
+2. 🎓 [simple-containers](https://github.com/gdmitrievich/simple-containers)
+
+GameDev (C# + Unity):
+
+3. [first-csharp-projects](https://github.com/gdmitrievich/first-csharp-projects)
+4. 🔥 [flappy-bird](https://github.com/gdmitrievich/flappy-bird)
+
+C++ development (C++ + Qt):
+
+5. [sudoku](https://github.com/gdmitrievich/sudoku)
+6. [func-ptr-and-templates](https://github.com/gdmitrievich/func-ptr-and-templates) quick sort
+7. [simple-vector-impl](https://github.com/gdmitrievich/simple-vector-impl)
+8. 🔥🎓 [binary-tree](https://github.com/gdmitrievich/binary-tree)
+9. 🔥🎓 [tilbi](https://github.com/gdmitrievich/tilbi): Unity
+10. 🎓 [SLAE-gauss-solver](https://github.com/gdmitrievich/SLAE-gauss-solver)
+11. 🔥🎓 [non-binary-tree-processor](https://github.com/gdmitrievich/non-binary-tree-processor) perfect code: doublyLinkedList\<T> with iterator.
+12. 🔥 [runner](https://github.com/gdmitrievich/runner): bash (not c++)
+13. [check-faster](https://github.com/gdmitrievich/check-faster): needed by math-function-drawer.
+14. 🔥 [math-function-drawer](https://github.com/gdmitrievich/math-function-drawer) - C++, OOP, containers, Unit-testing, CMake, git (GitFlow).
+15. 🎓 [simple-notes](https://github.com/gdmitrievich/simple-notes)
+16. 🔥🎓 [calculator](https://github.com/gdmitrievich/calculator)
+17. 🎓 [library-resource-manager](https://github.com/gditrievich/library-resource-manager): C#
+
+Education at School 21:
+
+18. [shell-utils](https://github.com/gdmitrievich/shell-utils)
+19. [string-plus](https://github.com/gdmitrievich/string-plus)
+20. 🔥 [decimal-library](https://github.com/gdmitrievich/decimal-library)
+21. 🔥 [matrix-library](https://github.com/gdmitrievich/matrix-library)
 
 <h2 align="center">LeetCode stats</h2>
 
