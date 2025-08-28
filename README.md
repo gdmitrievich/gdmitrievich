@@ -41,15 +41,9 @@
 	- продемонстрировать стремление учиться новому, умение решать проблемы разного масштаба и способность адаптироваться к новым технологиям.
 	-->
 
-<!-- It's important to name projects clearly. It's not important to write project goal & purpose here. -->
-
 <!-- Show the development Journey, specifying the direction (frontend development, GameDev (unity), c++ development, School 21 projects, and now...) and its completed projects (with the link to the repos) and key technologies, key consecpts learned & practised. -->
 
 <!-- TODO: Let's check each word and think what is needed for employer and what is not -->
-
-<!-- Example: [math-function-drawer](https://github.com/gdmitrievich/math-function-drawer) ; -->
-
-<!-- I write the projects and then their description -->
 
 🎓 - means university project. \
 🔥 - the best projects.
@@ -57,18 +51,31 @@
 > Параллельно с выбранным направлением я писал проекты, котоыре задавали в университете.
 > The best ones.
 
+<!-- What to write in front of the projects:
+- tech stack;
+- what i learned;
+- what i practiced; -->
+<!-- Write learned & practiced in general and specify that details you can found in the repository. -->
+
+table (№ - project - tech stack - learned - practised) or list? \
+what i learned also was practised.
+
+| № | Project | Tech Stack | Learned | Practised |
+| --- | --- | --- | --- | --- |
+| 1 | [locus](https://github.com/gdmitrievich/locus) | html, css | bmp, tags, structure | sass, html, css |
+
 Frontend (HTML + CSS):
 
 1. [locus](https://github.com/gdmitrievich/locus)
-2. 🎓 [simple-containers](https://github.com/gdmitrievich/simple-containers)
 
 GameDev (C# + Unity):
 
-3. [first-csharp-projects](https://github.com/gdmitrievich/first-csharp-projects)
-4. 🔥 [flappy-bird](https://github.com/gdmitrievich/flappy-bird)
+2. [first-csharp-projects](https://github.com/gdmitrievich/first-csharp-projects)
+3. 🔥 [flappy-bird](https://github.com/gdmitrievich/flappy-bird)
 
 C++ development (C++ + Qt):
 
+4. 🎓 [simple-containers](https://github.com/gdmitrievich/simple-containers)
 5. [sudoku](https://github.com/gdmitrievich/sudoku)
 6. [func-ptr-and-templates](https://github.com/gdmitrievich/func-ptr-and-templates) quick sort
 7. [simple-vector-impl](https://github.com/gdmitrievich/simple-vector-impl)
