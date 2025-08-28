@@ -49,30 +49,32 @@
 🔥 - the best projects.
 > Order of these projects: 1 - the first project.
 > Параллельно с выбранным направлением я писал проекты, котоыре задавали в университете.
-> The best ones.
 
 <!-- What to write in front of the projects:
 - tech stack;
 - what i learned;
 - what i practiced; -->
-<!-- Write learned & practiced in general and specify that details you can found in the repository. -->
 
-what i learned also was practised.
+Notes:
+- Goal: лаконичность, информативность, направленность на работодателя.
+	- Uppercase.
+
+> Write learned & practiced in general and specify that details you can found in the repository.
 
 <h4>Frontend (HTML + CSS)</h4>
 
 | № | Project | Tech Stack | Learned | Practised |
 | --- | --- | --- | --- | --- |
-| 1 | [locus](https://github.com/gdmitrievich/locus) | html, css | bmp, tags, structure | sass, html, css |
+| 1 | [locus](https://github.com/gdmitrievich/locus) | HTML, CSS, SCSS | Fundamentals of HTML & semantic markup, BEM methodology, CSS for styling, SCSS for fuster styling, principles of responsive web design, directory structure | Creating HTML document structure, setting up and using SCSS preprocessor, implementing layouts using Flexbox and Grid, testing display across different devices and screen resolutions |
 
 <h4>GameDev (C# + Unity)</h4>
 
 | № | Project | Tech Stack | Learned | Practised |
 | --- | --- | --- | --- | --- |
-| 2 | [first-csharp-projects](https://github.com/gdmitrievich/first-csharp-projects) | html, css | bmp, tags, structure | sass, html, css |
+| 2 | [first-csharp-projects](https://github.com/gdmitrievich/first-csharp-projects) | C# | The basics of C# (data types, control structures, arrays, exception handling, I/O), debugging techniques | Writing simple programs, naming conventions |
 | 3 | 🔥 [flappy-bird](https://github.com/gdmitrievich/flappy-bird) | | | |
 
-C++ development (C++ + Qt):
+<h4>C++ development (C++ + Qt)</h4>
 
 4. 🎓 [simple-containers](https://github.com/gdmitrievich/simple-containers)
 5. [sudoku](https://github.com/gdmitrievich/sudoku)
@@ -89,7 +91,7 @@ C++ development (C++ + Qt):
 16. 🔥🎓 [calculator](https://github.com/gdmitrievich/calculator)
 17. 🎓 [library-resource-manager](https://github.com/gditrievich/library-resource-manager): C#
 
-Education at School 21:
+<h4>Education at School 21</h4>
 
 18. [shell-utils](https://github.com/gdmitrievich/shell-utils)
 19. [string-plus](https://github.com/gdmitrievich/string-plus)
