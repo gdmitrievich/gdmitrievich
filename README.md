@@ -56,23 +56,23 @@
 | № | Project | Tech Stack | Learned | Practised |
 | --- | --- | --- | --- | --- |
 | 2 | [first-csharp-projects](https://github.com/gdmitrievich/first-csharp-projects) | C# | The basic syntax of C# | Writing simple programs, clear naming |
-| 3 | 🔥 [flappy-bird](https://github.com/gdmitrievich/flappy-bird) | C#, Unity, Libraries (for audio, sprite graphics & animations) | C# (OOP: clasess, interfaces, objects, encapsulation, inheritance, polymorphism; attributes, events), Observer design pattern, basic Unity Engine API, collision detection mechanism, integrating audio elements, managing sprites & animations, debugging techniques | What was learned |
+| 3 | 🔥 [flappy-bird](https://github.com/gdmitrievich/flappy-bird) | C#, Unity, Libraries (for audio, sprite graphics & animations) | C# (OOP: clasess (constructors, fields, properties), interfaces, objects, encapsulation, inheritance, polymorphism; attributes, events, collections, generics), Observer design pattern, basic Unity Engine API, collision detection mechanism, integrating audio elements, managing sprites & animations, debugging & profiling techniques | What was learned, clear naming |
 
 <h4>C++ development (C++ + Qt)</h4>
 
 | № | Project | Tech Stack | Learned | Practised |
 | --- | --- | --- | --- | --- |
-| 4 | 🎓 [simple-containers](https://github.com/gdmitrievich/simple-containers) | | | |
-| 5 | [sudoku](https://github.com/gdmitrievich/sudoku) | | | |
-| 6 | [func-ptr-and-templates](https://github.com/gdmitrievich/func-ptr-and-templates) | | | quick sort |
-| 7 | [simple-vector-impl](https://github.com/gdmitrievich/simple-vector-impl) | | | |
+| 4 | 🎓 [simple-containers](https://github.com/gdmitrievich/simple-containers) | C++ | C++ (structs, header guards, pointers, memory management), API of dynamic list, queue (FIFO principle) & stack (LIFO principle) | Implemented circular dynamic list, queue & something similar to stack (solution is ugly 😬), I/O |
+| 5 | [sudoku](https://github.com/gdmitrievich/sudoku) | C++, STL | enum, clean code principles (SRP, DRY) | SRP, decomposition, clear naming, Google code style, usage of multi-dimensional arrays |
+| 6 | [func-ptr-and-templates](https://github.com/gdmitrievich/func-ptr-and-templates) | C++, git | C++ (function pointers, template and inline functions, references), basic git commands | SRP, clear naming, quick sort algorithm |
+| 7 | [simple-vector-impl](https://github.com/gdmitrievich/simple-vector-impl) | C++, git | initializer_list, forward declaration, operator overloading, friend functions | OOP, encapsulation, generics, function pointers, basic git commands, clean code principles (SRP, DRY, clear naming) |
 | 8 | 🔥🎓 [binary-tree](https://github.com/gdmitrievich/binary-tree) | | | |
 | 9 | 🔥🎓 [tilbi](https://github.com/gdmitrievich/tilbi) | Unity | | |
 | 10 | 🎓 [SLAE-gauss-solver](https://github.com/gdmitrievich/SLAE-gauss-solver) | | | |
-| 11 | 🔥🎓 [non-binary-tree-processor](https://github.com/gdmitrievich/non-binary-tree-processor) | | | perfect code: doublyLinkedList\<T> with iterator |
+| 11 | 🔥🎓 [non-binary-tree-processor](https://github.com/gdmitrievich/non-binary-tree-processor) | | jwjfdskjfks ei| perfect code: doublyLinkedList\<T> with iterator |
 | 12 | 🔥 [runner](https://github.com/gdmitrievich/runner): bash (not c++) | | | |
 | 13 | [check-faster](https://github.com/gdmitrievich/check-faster) | | | needed by math-function-drawer |
-| 14 | 🔥 [math-function-drawer](https://github.com/gdmitrievich/math-function-drawer) | C++, OOP, containers, Unit-testing, CMake, git (GitFlow) | | |
+| 14 | 🔥 [math-function-drawer](https://github.com/gdmitrievich/math-function-drawer) | C++, OOP, containers, Unit-testing, CMake, git (GitFlow) | preprocessor, compilation, linking... | |
 | 15 | 🎓 [simple-notes](https://github.com/gdmitrievich/simple-notes) | | | |
 | 16 | 🔥🎓 [calculator](https://github.com/gdmitrievich/calculator) | | | |
 | 17 | 🎓 [library-resource-manager](https://github.com/gditrievich/library-resource-manager): C# | | | |
