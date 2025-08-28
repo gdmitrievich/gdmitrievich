@@ -11,13 +11,13 @@
 <h1 align="center">Hi there, I'm Gleb 👋</a>
 <h3 align="center">A novice backend Java developer who loves coding 💻</h3>
 
-<h2>About Me</h2>
+<!-- <h2>About Me</h2> -->
 
 <!-- BUT! ONLY WHAT NEEDED FOR EMPLOYER. -->
-I love:
+<!-- I love:
 - Read self-development books;
 - Talk with the powerful people;
-- Calisthenics & running.
+- Calisthenics & running. -->
 
 <h2>Tech stack</h2>
 
