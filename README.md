@@ -57,14 +57,46 @@
 - what i practiced; -->
 <!-- Write learned & practiced in general and specify that details you can found in the repository. -->
 
-table (№ - project - tech stack - learned - practised) or list? \
 what i learned also was practised.
+
+<h4>Frontend (HTML + CSS)</h4>
 
 | № | Project | Tech Stack | Learned | Practised |
 | --- | --- | --- | --- | --- |
 | 1 | [locus](https://github.com/gdmitrievich/locus) | html, css | bmp, tags, structure | sass, html, css |
 
-Frontend (HTML + CSS):
+<h3>GameDev (C# + Unity)</h3>
+
+| № | Project | Tech Stack | Learned | Practised |
+| --- | --- | --- | --- | --- |
+| 2 | [first-csharp-projects](https://github.com/gdmitrievich/first-csharp-projects) | html, css | bmp, tags, structure | sass, html, css |
+| 3 | 🔥 [flappy-bird](https://github.com/gdmitrievich/flappy-bird) | | | |
+
+C++ development (C++ + Qt):
+
+4. 🎓 [simple-containers](https://github.com/gdmitrievich/simple-containers)
+5. [sudoku](https://github.com/gdmitrievich/sudoku)
+6. [func-ptr-and-templates](https://github.com/gdmitrievich/func-ptr-and-templates) quick sort
+7. [simple-vector-impl](https://github.com/gdmitrievich/simple-vector-impl)
+8. 🔥🎓 [binary-tree](https://github.com/gdmitrievich/binary-tree)
+9. 🔥🎓 [tilbi](https://github.com/gdmitrievich/tilbi): Unity
+10. 🎓 [SLAE-gauss-solver](https://github.com/gdmitrievich/SLAE-gauss-solver)
+11. 🔥🎓 [non-binary-tree-processor](https://github.com/gdmitrievich/non-binary-tree-processor) perfect code: doublyLinkedList\<T> with iterator.
+12. 🔥 [runner](https://github.com/gdmitrievich/runner): bash (not c++)
+13. [check-faster](https://github.com/gdmitrievich/check-faster): needed by math-function-drawer.
+14. 🔥 [math-function-drawer](https://github.com/gdmitrievich/math-function-drawer) - C++, OOP, containers, Unit-testing, CMake, git (GitFlow).
+15. 🎓 [simple-notes](https://github.com/gdmitrievich/simple-notes)
+16. 🔥🎓 [calculator](https://github.com/gdmitrievich/calculator)
+17. 🎓 [library-resource-manager](https://github.com/gditrievich/library-resource-manager): C#
+
+Education at School 21:
+
+18. [shell-utils](https://github.com/gdmitrievich/shell-utils)
+19. [string-plus](https://github.com/gdmitrievich/string-plus)
+20. 🔥 [decimal-library](https://github.com/gdmitrievich/decimal-library)
+21. 🔥 [matrix-library](https://github.com/gdmitrievich/matrix-library)
+
+<!-- Frontend (HTML + CSS):
 
 1. [locus](https://github.com/gdmitrievich/locus)
 
@@ -95,7 +127,7 @@ Education at School 21:
 18. [shell-utils](https://github.com/gdmitrievich/shell-utils)
 19. [string-plus](https://github.com/gdmitrievich/string-plus)
 20. 🔥 [decimal-library](https://github.com/gdmitrievich/decimal-library)
-21. 🔥 [matrix-library](https://github.com/gdmitrievich/matrix-library)
+21. 🔥 [matrix-library](https://github.com/gdmitrievich/matrix-library) -->
 
 <h2 align="center">LeetCode stats</h2>
 
