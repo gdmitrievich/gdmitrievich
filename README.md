@@ -11,14 +11,6 @@
 <h1 align="center">Hi there, I'm Gleb 👋</a>
 <h3 align="center">A novice backend Java developer who loves coding 💻</h3>
 
-<!-- <h2>About Me</h2> -->
-
-<!-- BUT! ONLY WHAT NEEDED FOR EMPLOYER. -->
-<!-- I love:
-- Read self-development books;
-- Talk with the powerful people;
-- Calisthenics & running. -->
-
 <h2>Tech stack</h2>
 
 <p>
@@ -45,19 +37,11 @@
 
 <!-- TODO: Let's check each word and think what is needed for employer and what is not -->
 
-🎓 - means university project. \
-🔥 - the best projects.
+🔥 - best project. \
+🎓 - university project.
+
 > Order of these projects: 1 - the first project.
 > Параллельно с выбранным направлением я писал проекты, котоыре задавали в университете.
-
-<!-- What to write in front of the projects:
-- tech stack;
-- what i learned;
-- what i practiced; -->
-
-Notes:
-- Goal: лаконичность, информативность, направленность на работодателя.
-	- Uppercase.
 
 > Write learned & practiced in general and specify that details you can found in the repository.
 
@@ -71,32 +55,36 @@ Notes:
 
 | № | Project | Tech Stack | Learned | Practised |
 | --- | --- | --- | --- | --- |
-| 2 | [first-csharp-projects](https://github.com/gdmitrievich/first-csharp-projects) | C# | The basics of C# (data types, control structures, arrays, exception handling, I/O), debugging techniques | Writing simple programs, naming conventions |
-| 3 | 🔥 [flappy-bird](https://github.com/gdmitrievich/flappy-bird) | | | |
+| 2 | [first-csharp-projects](https://github.com/gdmitrievich/first-csharp-projects) | C# | The basic syntax of C# | Writing simple programs, clear naming |
+| 3 | 🔥 [flappy-bird](https://github.com/gdmitrievich/flappy-bird) | C#, Unity, Libraries (for audio, sprite graphics & animations) | C# (OOP: clasess, interfaces, objects, encapsulation, inheritance, polymorphism; attributes, events), Observer design pattern, basic Unity Engine API, collision detection mechanism, integrating audio elements, managing sprites & animations, debugging techniques | What was learned |
 
 <h4>C++ development (C++ + Qt)</h4>
 
-4. 🎓 [simple-containers](https://github.com/gdmitrievich/simple-containers)
-5. [sudoku](https://github.com/gdmitrievich/sudoku)
-6. [func-ptr-and-templates](https://github.com/gdmitrievich/func-ptr-and-templates) quick sort
-7. [simple-vector-impl](https://github.com/gdmitrievich/simple-vector-impl)
-8. 🔥🎓 [binary-tree](https://github.com/gdmitrievich/binary-tree)
-9. 🔥🎓 [tilbi](https://github.com/gdmitrievich/tilbi): Unity
-10. 🎓 [SLAE-gauss-solver](https://github.com/gdmitrievich/SLAE-gauss-solver)
-11. 🔥🎓 [non-binary-tree-processor](https://github.com/gdmitrievich/non-binary-tree-processor) perfect code: doublyLinkedList\<T> with iterator.
-12. 🔥 [runner](https://github.com/gdmitrievich/runner): bash (not c++)
-13. [check-faster](https://github.com/gdmitrievich/check-faster): needed by math-function-drawer.
-14. 🔥 [math-function-drawer](https://github.com/gdmitrievich/math-function-drawer) - C++, OOP, containers, Unit-testing, CMake, git (GitFlow).
-15. 🎓 [simple-notes](https://github.com/gdmitrievich/simple-notes)
-16. 🔥🎓 [calculator](https://github.com/gdmitrievich/calculator)
-17. 🎓 [library-resource-manager](https://github.com/gditrievich/library-resource-manager): C#
+| № | Project | Tech Stack | Learned | Practised |
+| --- | --- | --- | --- | --- |
+| 4 | 🎓 [simple-containers](https://github.com/gdmitrievich/simple-containers) | | | |
+| 5 | [sudoku](https://github.com/gdmitrievich/sudoku) | | | |
+| 6 | [func-ptr-and-templates](https://github.com/gdmitrievich/func-ptr-and-templates) | | | quick sort |
+| 7 | [simple-vector-impl](https://github.com/gdmitrievich/simple-vector-impl) | | | |
+| 8 | 🔥🎓 [binary-tree](https://github.com/gdmitrievich/binary-tree) | | | |
+| 9 | 🔥🎓 [tilbi](https://github.com/gdmitrievich/tilbi) | Unity | | |
+| 10 | 🎓 [SLAE-gauss-solver](https://github.com/gdmitrievich/SLAE-gauss-solver) | | | |
+| 11 | 🔥🎓 [non-binary-tree-processor](https://github.com/gdmitrievich/non-binary-tree-processor) | | | perfect code: doublyLinkedList\<T> with iterator |
+| 12 | 🔥 [runner](https://github.com/gdmitrievich/runner): bash (not c++) | | | |
+| 13 | [check-faster](https://github.com/gdmitrievich/check-faster) | | | needed by math-function-drawer |
+| 14 | 🔥 [math-function-drawer](https://github.com/gdmitrievich/math-function-drawer) | C++, OOP, containers, Unit-testing, CMake, git (GitFlow) | | |
+| 15 | 🎓 [simple-notes](https://github.com/gdmitrievich/simple-notes) | | | |
+| 16 | 🔥🎓 [calculator](https://github.com/gdmitrievich/calculator) | | | |
+| 17 | 🎓 [library-resource-manager](https://github.com/gditrievich/library-resource-manager): C# | | | |
 
 <h4>Education at School 21</h4>
 
-18. [shell-utils](https://github.com/gdmitrievich/shell-utils)
-19. [string-plus](https://github.com/gdmitrievich/string-plus)
-20. 🔥 [decimal-library](https://github.com/gdmitrievich/decimal-library)
-21. 🔥 [matrix-library](https://github.com/gdmitrievich/matrix-library)
+| № | Project | Tech Stack | Learned | Practised |
+| --- | --- | --- | --- | --- |
+| 18 | [shell-utils](https://github.com/gdmitrievich/shell-utils) | | | |
+| 19 | [string-plus](https://github.com/gdmitrievich/string-plus) | | | |
+| 20 | 🔥 [decimal-library](https://github.com/gdmitrievich/decimal-library) | | | |
+| 21 | 🔥 [matrix-library](https://github.com/gdmitrievich/matrix-library) | | | |
 
 <!-- Frontend (HTML + CSS):
 
